@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+
+        <!-- This file should contain only records from model ir.ui.view -->
+
+        <!-- Example:
+
+        <record id="view_sale_order_calendar" model="ir.ui.view">
+            <field name="name">sale.order.calendar</field>
+            <field name="model">sale.order</field>
+            <field name="arch" type="xml">
+                <calendar string="Sales Orders" color="state" date_start="date_order">
+                    <field name="partner_id"/>
+                    <field name="amount_total"/>
+                </calendar>
+            </field>
+        </record>
+
+        -->
+
+
+    </data>
+</openerp>

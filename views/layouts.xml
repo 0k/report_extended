@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+<data>
+
+  <template id="minimal_layout" inherit_id="report.minimal_layout">
+    <xpath expr="//script[@src='/report/static/src/js/subst.js']" position="replace">
+      <script src='/report_extended/static/src/js/subst.js'></script>
+    </xpath>
+  </template>
+
+</data>
+</openerp>
